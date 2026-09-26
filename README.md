@@ -34,31 +34,7 @@ The project includes both a **Python-based EDA analysis** and an **interactive S
 
 ---
 
-## 📁 Project Structure
 
-
-CodeAlpha_EDA/
-│
-├── data/
-│   └── it_employee_data.csv
-│
-├── outputs/
-│   ├── average_salary_by_department.png
-│   ├── average_performance_by_department.png
-│   ├── experience_vs_salary.png
-│   ├── training_vs_performance.png
-│   └── programming_language_usage.png
-│
-├── static/
-│   └── style.css
-│
-├── analysis.py
-├── dashboard.py
-├── requirements.txt
-└── README.md
-
-
----
 
 ## 📊 Dataset
 
